@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PatientAdd</title>
+    <script>
+        function fun() {
+            alert("Invoked by Button");
+        }
+    </script>
+</head>
+<body>
+    <form action="Submit" method="post" >
+        Patient Name: <input type="text" name="PatientName" value="" /><br /><br />
+        Patient Problem: <input type="text" name="PatientProblem" value="" /><br /><br />
+        <input type="Button" value="Add" onclick="fun()"/><br /><br />
+        <input type="submit" value="submit" />
+    </form>
+</body>
+</html>
