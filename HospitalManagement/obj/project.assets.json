@@ -12948,11 +12948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QuestIT Training\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
+      "projectUniqueName": "C:\\Users\\AminSohail\\Desktop\\HospitalManagement1\\HospitalManagement\\HospitalManagement.csproj",
       "projectName": "HospitalManagement",
-      "projectPath": "D:\\QuestIT Training\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
+      "projectPath": "C:\\Users\\AminSohail\\Desktop\\HospitalManagement1\\HospitalManagement\\HospitalManagement.csproj",
       "packagesPath": "C:\\Users\\AminSohail\\.nuget\\packages\\",
-      "outputPath": "D:\\QuestIT Training\\HospitalManagement\\HospitalManagement\\obj\\",
+      "outputPath": "C:\\Users\\AminSohail\\Desktop\\HospitalManagement1\\HospitalManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
